@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowFocus", "WindowFocus\WindowFocus.csproj", "{B51BE75F-919C-4720-87D2-DED3048B50BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skynet", "Skynet\Skynet.csproj", "{EB59C7EA-75E7-42D5-97C4-4BD8EB407493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHealthCheck", "ServiceHealthCheck\ServiceHealthCheck.csproj", "{D075CE9B-CF49-41CD-9CA1-A3DCE40C39B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51BE75F-919C-4720-87D2-DED3048B50BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51BE75F-919C-4720-87D2-DED3048B50BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51BE75F-919C-4720-87D2-DED3048B50BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51BE75F-919C-4720-87D2-DED3048B50BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB59C7EA-75E7-42D5-97C4-4BD8EB407493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB59C7EA-75E7-42D5-97C4-4BD8EB407493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB59C7EA-75E7-42D5-97C4-4BD8EB407493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB59C7EA-75E7-42D5-97C4-4BD8EB407493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D075CE9B-CF49-41CD-9CA1-A3DCE40C39B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D075CE9B-CF49-41CD-9CA1-A3DCE40C39B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D075CE9B-CF49-41CD-9CA1-A3DCE40C39B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D075CE9B-CF49-41CD-9CA1-A3DCE40C39B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
